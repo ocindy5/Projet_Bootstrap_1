@@ -28,3 +28,56 @@ margin-top:-50px;
 .container .right{
 margin-top:100px;
 }
+
+#third_section {
+  margin-top:70px;
+
+}
+
+#third_section .col-md-4 {
+  width:385.70px;
+  height:278.22px;
+}
+
+#third_section .one, #third_section .two, #third_section .three,
+#third_section .four, #third_section .five, #third_section .seven {
+  background-color:#0B1C29;
+    padding:50px;
+    text-align: justify;
+}
+
+#third_section  h3 {
+  font-family: "Open Sans Light";
+}
+#third_section .two {
+    background-color:#3E606F;
+}
+
+#third_section .three {
+    background-color:#91AA9D;
+}
+
+#third_section .four {
+    background-color:#D1DBBD;
+}
+
+#third_section .five {
+    background-color:#F2EBC7;
+}
+
+#third_section h3, #third_section p {
+  color:white;
+}
+
+#third_section .four h3, #third_section .four p, #third_section .four a,
+#third_section .five h3, #third_section .five p, #third_section .five a {
+  color:#0B1C29;
+}
+
+#third_section p {
+  font-size:14px;
+}
+
+#third_section a {
+  color:white;
+}
