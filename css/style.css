@@ -29,6 +29,8 @@ margin-top:-50px;
 margin-top:100px;
 }
 
+/*  THIRD SECTION */
+
 #third_section {
   margin-top:70px;
 
@@ -80,4 +82,34 @@ margin-top:100px;
 
 #third_section a {
   color:white;
+}
+
+/*  FOURTH SECTION */
+
+#fourth_section {
+  margin-top:90px;
+}
+
+#fourth_section p {
+  font-family: "Open Sans Regular";
+  font-size:14px;
+  text-align: justify;
+}
+
+#fourth_section h2 {
+  margin-bottom:55px;
+}
+
+#fourth_section h4 {
+  margin-bottom:25px;
+}
+
+#fourth_section h2 {
+  font-family: "Open Sans Light";
+  font-size:35px;
+
+}
+#fourth_section h4 {
+    font-family: "Open Sans Semibold";
+    font-size:13px;
 }
