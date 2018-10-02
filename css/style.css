@@ -1,6 +1,6 @@
 .container-fluid {
 background-image: url("../img/header-image.jpg");
-height:850px;
+height:750px;
 margin-top:-50px;
  }
 
@@ -20,15 +20,11 @@ margin-top:-50px;
 }
 
 .iphone {
-  margin-left:-40%;
-  margin-top:-20%;
+  margin-left:-80%;
+  margin-top:-8%;
+  transform:skew(15deg, -10deg);
 }
 
-#second_section p {
-  color:#959595;
-  font-family: "Open Sans Regular";
-}
-
-#second_section h2 {
-  color:#222626;
+.container .right{
+margin-top:100px;
 }
