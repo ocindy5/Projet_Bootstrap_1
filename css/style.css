@@ -1,4 +1,4 @@
-.container-fluid {
+#first_section {
 background-image: url("../img/header-image.jpg");
 height:750px;
 margin-top:-50px;
@@ -21,8 +21,9 @@ margin-top:-50px;
 
 .iphone {
   margin-left:-80%;
-  margin-top:-8%;
+  margin-top:-15%;
   transform:skew(15deg, -10deg);
+  overflow: hidden;
 }
 
 .container .right{
@@ -37,7 +38,7 @@ margin-top:100px;
 }
 
 #third_section .col-md-4 {
-  width:385.70px;
+
   height:278.22px;
 }
 
@@ -112,4 +113,28 @@ margin-top:100px;
 #fourth_section h4 {
     font-family: "Open Sans Semibold";
     font-size:13px;
+}
+
+/*  FIFTH SECTION */
+
+#fifth_section {
+  margin-top:100px;
+  height:750px;
+  display:block;
+  background-image: url("../img/mountain.jpeg");
+  transform-origin: center;
+}
+
+.power {
+  margin-top:15%;
+  margin-left:15%;
+  color:white;
+}
+
+.power a {
+  color:white;
+}
+
+.power h1 {
+  font-family: "Open Sans Light";
 }
