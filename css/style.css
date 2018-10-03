@@ -1,3 +1,7 @@
+.logo {
+  margin-top:50px;
+}
+
 #first_section {
 background-image: url("../img/header-image.jpg");
 height:750px;
@@ -20,8 +24,8 @@ margin-top:-50px;
 }
 
 .iphone {
-  margin-left:-80%;
-  margin-top:-15%;
+  margin-left:-60%;
+  margin-top:-45px;
   transform:skew(15deg, -10deg);
   overflow: hidden;
 }
@@ -137,4 +141,97 @@ margin-top:100px;
 
 .power h1 {
   font-family: "Open Sans Light";
+}
+
+/* SIXTH SECTION */
+
+.onboard {
+height:535px;
+background-color:#82ca9c;
+color:white;
+}
+
+.onboard h2 {
+  margin-top:100px;
+  font-family:"Open Sans Light";
+  margin-left:30px;
+}
+
+.onboard h3 {
+  margin-top:50px;
+  font familty:"Open Sans Semibold";
+  margin-bottom:20px;
+  font-size:15px;
+}
+
+#seventh_section {
+  padding-top:148px;
+  background-color:#f6f7fa;
+    padding-bottom:145px;
+}
+
+#seventh_section h1{
+  font-family:"Open Sans Light";
+}
+
+#seventh_section button {
+    background-color:#82ca9c;
+    border-color:#82ca9c;
+    margin-top:15px;
+}
+
+.buy2 {
+  width:570px;
+  height:373px;
+  background-color: #ffffff;
+}
+
+.buy1 h1 {
+  margin-top:45px;
+}
+
+.buy2 h1 {
+  margin-top:45px;
+}
+
+/* FOOTER */
+
+#footer {
+  height:600px;
+  background-color:#192431;
+  color:white;
+}
+
+#footer .footer1, #footer .footer2 {
+  margin-top:125px;
+}
+
+#footer h3 {
+  margin-bottom:20px;
+  font-family:"Open Sans Semibold";
+  margin-left:40px;
+}
+
+.search {
+  width:400px;
+  height:50px;
+}
+
+#footer button {
+  width:50px;
+  height:50px;
+  margin-top:-5px;
+  margin-left:-5px;
+  background-color:#82ca9c;
+  border-color:#82ca9c;
+}
+
+#nav h3 {
+  font-size:1.2em;
+}
+
+#nav li {
+  display:inline-block;
+  list-style-type:none;
+  font-family:"Open Sans Light";
 }
