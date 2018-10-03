@@ -164,10 +164,26 @@ color:white;
   font-size:15px;
 }
 
+/*  SEVENTH SECTION */
+
 #seventh_section {
   padding-top:148px;
   background-color:#f6f7fa;
     padding-bottom:145px;
+}
+
+#seventh_section .buy1, #seventh_section .buy2 {
+  padding:25px;
+}
+
+.badge-default {
+  background-color:#e1e1e1;
+}
+
+.badge {
+  font-size:1em;
+  color:white;
+  margin-top:20px;
 }
 
 #seventh_section h1{
