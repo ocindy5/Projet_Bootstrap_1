@@ -147,7 +147,7 @@ margin-top:100px;
 
 .onboard {
 height:535px;
-background-color:#82ca9c;
+background-color:#7BACA7;
 color:white;
 }
 
@@ -240,6 +240,23 @@ color:white;
   margin-left:-5px;
   background-color:#82ca9c;
   border-color:#82ca9c;
+}
+
+.nav {
+  margin-left: -10px !important;
+}
+
+.search, .footer2 h3 {
+  display:inline-block;
+  margin-left:70px !important;
+  font-size:1em;
+  font-family: "Open Sans Light"
+}
+
+.footer1 h3 {
+  margin-left:-5px !important;
+  font-size:1em;
+  font-family: "Open Sans Light"
 }
 
 #nav h3 {
