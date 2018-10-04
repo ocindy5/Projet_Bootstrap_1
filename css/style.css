@@ -97,26 +97,20 @@ margin-top:100px;
 
 #fourth_section p {
   font-family: "Open Sans Regular";
-  font-size:14px;
+  font-size:1.2em;
   text-align: justify;
-}
-
-#fourth_section h2 {
-  margin-bottom:55px;
-}
-
-#fourth_section h4 {
-  margin-bottom:25px;
 }
 
 #fourth_section h2 {
   font-family: "Open Sans Light";
   font-size:35px;
-
+    margin-bottom:55px;
 }
+
 #fourth_section h4 {
     font-family: "Open Sans Semibold";
-    font-size:13px;
+    font-size:1.2em;
+    margin-bottom:25px;
 }
 
 /*  FIFTH SECTION */
