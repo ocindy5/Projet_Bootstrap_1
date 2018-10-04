@@ -24,8 +24,8 @@ margin-top:-50px;
 }
 
 .iphone {
-  margin-left:-60%;
-  margin-top:-45px;
+  margin-left:-350px;
+  margin-top:-55px;
   transform:skew(15deg, -10deg);
   overflow: hidden;
 }
