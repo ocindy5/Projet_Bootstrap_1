@@ -146,9 +146,10 @@ margin-top:100px;
 /* SIXTH SECTION */
 
 .onboard {
-height:535px;
-background-color:#7BACA7;
+height:80%;
+background-color:#707070;
 color:white;
+padding-bottom:50px !important;
 }
 
 .onboard h2 {
@@ -159,9 +160,9 @@ color:white;
 
 .onboard h3 {
   margin-top:50px;
-  font familty:"Open Sans Semibold";
+  font familty:"Open Sans Light";
   margin-bottom:20px;
-  font-size:15px;
+  font-size:20px;
 }
 
 /*  SEVENTH SECTION */
@@ -193,7 +194,6 @@ color:white;
 #seventh_section button {
     background-color:#82ca9c;
     border-color:#82ca9c;
-    margin-top:15px;
 }
 
 .buy2 {
@@ -301,9 +301,13 @@ color:white;
 }
 
 
-@media screen and (min-width:0px) and (max-width:544px) {
+@media screen and (min-width:0px) and (max-width:769px) {
   #footer button {
-    margin-left: -7px;
-    margin-top: -3px;
+    margin-left: -20px;
+
+    margin-top: -5px;
+    }
+    .onboard {
+      height:100% !important;
     }
 }
